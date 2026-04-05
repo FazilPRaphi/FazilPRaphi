@@ -148,7 +148,6 @@ FOCUS    →  Production-ready systems. Surgical precision.
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=FazilPRaphi&label=PROFILE%20VIEWS&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ```
 © 2026 FAZIL P RAPHI
