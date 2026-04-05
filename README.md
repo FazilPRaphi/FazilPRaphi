@@ -105,11 +105,11 @@ FOCUS    →  Production-ready systems. Surgical precision.
 
 <div align="center">
 
-![Fazil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FazilPRaphi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=e3ec15&text_color=f9f9f9&icon_color=5f6300)
+![Fazil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FazilPRaphi&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=e3ec15&text_color=f9f9f9&icon_color=c7cf00)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=FazilPRaphi&theme=dark&hide_border=true&background=0d1117&ring=e3ec15&fire=f4fd2f&currStreakLabel=e3ec15)
+![GitHub Streak](https://streak-stats.demolab.com?user=FazilPRaphi&hide_border=true&background=0d1117&ring=e3ec15&fire=f4fd2f&currStreakLabel=e3ec15&sideLabels=c7cf00&dates=787960&currStreakNum=f9f9f9&sideNums=f9f9f9&stroke=1a1c1c)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FazilPRaphi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=e3ec15&text_color=f9f9f9)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FazilPRaphi&layout=compact&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=e3ec15&text_color=f9f9f9)
 
 </div>
 
@@ -156,13 +156,3 @@ BUILT WITH SURGICAL PRECISION. ALL RIGHTS RESERVED.
 ```
 
 </div>
-
-```
-
-</div>
-sername=FazilPRaphi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=FazilPRaphi&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
