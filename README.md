@@ -1,17 +1,17 @@
 <!-- ============================================================
-     RAW CURATOR — FAZIL P RAPHI  |  GitHub Profile README
+     FAZIL P RAPHI  |  GitHub Profile README
      Design System: Editorial Brutalism
      ============================================================ -->
 
 <div align="center">
 
 ```
-██████╗  █████╗ ██╗    ██╗    ██████╗██╗   ██╗██████╗  █████╗ ████████╗ ██████╗ ██████╗
-██╔══██╗██╔══██╗██║    ██║   ██╔════╝██║   ██║██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
-██████╔╝███████║██║ █╗ ██║   ██║     ██║   ██║██████╔╝███████║   ██║   ██║   ██║██████╔╝
-██╔══██╗██╔══██║██║███╗██║   ██║     ██║   ██║██╔══██╗██╔══██║   ██║   ██║   ██║██╔══██╗
-██║  ██║██║  ██║╚███╔███╔╝   ╚██████╗╚██████╔╝██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+███████╗ █████╗ ███████╗██╗██╗         ██████╗     ██████╗  █████╗ ██████╗ ██╗  ██╗██╗
+██╔════╝██╔══██╗╚══███╔╝██║██║         ██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██║  ██║██║
+█████╗  ███████║  ███╔╝ ██║██║         ██████╔╝    ██████╔╝███████║██████╔╝███████║██║
+██╔══╝  ██╔══██║ ███╔╝  ██║██║         ██╔═══╝     ██╔══██╗██╔══██║██╔═══╝ ██╔══██║██║
+██║     ██║  ██║███████╗██║███████╗    ██║         ██║  ██║██║  ██║██║     ██║  ██║██║
+╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝    ╚═╝         ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝
 ```
 
 </div>
@@ -135,15 +135,6 @@ FOCUS    →  Production-ready systems. Surgical precision.
 
 ## ░░ 05 — CONNECT
 
-```
-GITHUB     →  github.com/FazilPRaphi
-LINKEDIN   →  linkedin.com/in/fazil-p-raphi
-INSTAGRAM  →  instagram.com/_faz_i_z_w
-EMAIL      →  fazilraphi14@gmail.com
-           →  fazil.dev@outlook.com
-LOCATION   →  Kerala, India
-```
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fazil-p-raphi)
@@ -160,8 +151,12 @@ LOCATION   →  Kerala, India
 [![Profile Views](https://visitcount.itsvg.in/api?id=FazilPRaphi&label=PROFILE%20VIEWS&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ```
-© 2026 FAZIL P RAPHI — RAW CURATOR ARCHITECTURAL LAB
+© 2026 FAZIL P RAPHI
 BUILT WITH SURGICAL PRECISION. ALL RIGHTS RESERVED.
+```
+
+</div>
+
 ```
 
 </div>
