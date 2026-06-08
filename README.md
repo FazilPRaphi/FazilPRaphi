@@ -1,157 +1,231 @@
-<!-- ============================================================
-     FAZIL P RAPHI  |  GitHub Profile README
-     Design System: Editorial Brutalism
-     ============================================================ -->
+# <div align="center">Fazil Raphi</div>
 
 <div align="center">
-
-```
-███████╗ █████╗ ███████╗██╗██╗         ██████╗     ██████╗  █████╗ ██████╗ ██╗  ██╗██╗
-██╔════╝██╔══██╗╚══███╔╝██║██║         ██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██║  ██║██║
-█████╗  ███████║  ███╔╝ ██║██║         ██████╔╝    ██████╔╝███████║██████╔╝███████║██║
-██╔══╝  ██╔══██║ ███╔╝  ██║██║         ██╔═══╝     ██╔══██╗██╔══██║██╔═══╝ ██╔══██║██║
-██║     ██║  ██║███████╗██║███████╗    ██║         ██║  ██║██║  ██║██║     ██║  ██║██║
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝    ╚═╝         ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝
-```
-
+  <img src="./assets/banner.svg" alt="Fazil Raphi premium GitHub profile banner" width="100%" />
 </div>
 
----
-
 <div align="center">
-
-**`[ FULL STACK DEVELOPER ]` `[ AI ENGINEER ]` `[ KERALA, INDIA ]`**
-
+  <a href="https://updatedportfolio-ashen.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0B0F0E?style=for-the-badge&logo=vercel&logoColor=7CFFB2&labelColor=0B0F0E" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/fazil-p-raphi">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0F0E?style=for-the-badge&logo=linkedin&logoColor=7CFFB2&labelColor=0B0F0E" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fazilraphi14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B0F0E?style=for-the-badge&logo=gmail&logoColor=7CFFB2&labelColor=0B0F0E" alt="Email" />
+  </a>
+  <a href="https://music.youtube.com/playlist?list=PLa7_zFXgzqG4EUKhNCWNIOwJfT_JwTiq2&si=mOlO3hJ7P0H4n1Go">
+    <img src="https://img.shields.io/badge/Coding_Playlist-0B0F0E?style=for-the-badge&logo=youtubemusic&logoColor=7CFFB2&labelColor=0B0F0E" alt="Coding Playlist" />
+  </a>
 </div>
 
----
-
-## ░░ 01 — IDENTITY
-
-```
-NAME     →  Fazil P Raphi
-ROLE     →  Full Stack Developer & AI Enthusiast
-STATUS   →  ■ AVAILABLE FOR WORK
-FOCUS    →  Production-ready systems. Surgical precision.
-```
-
-> **I don't just write code — I architect solutions.**
-> Building impactful products where clean interfaces meet scalable backends,
-> and where machine intelligence becomes a practical tool.
-
-**Currently shipping:**
-- 🧠 **Synapse** — Brain Tumor Detection AI (React + FastAPI + TensorFlow)
-- 💰 **VaultaIQ** — Intelligent Expense Tracker (Next.js + Supabase)
-
----
-
-## ░░ 02 — TECH STACK
-
-### ◼ LANGUAGES
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/DART-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### ◼ FRONTEND
-![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/VITE-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/REACT_ROUTER-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/REACT_HOOK_FORM-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Flutter](https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### ◼ BACKEND
-![NodeJS](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/FLASK-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Gunicorn](https://img.shields.io/badge/GUNICORN-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-### ◼ DATABASES
-![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/POSTGRESQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/FIREBASE-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### ◼ AI / ML
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/KERAS-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### ◼ CLOUD & DEVOPS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/VERCEL-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/NETLIFY-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/RENDER-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### ◼ DESIGN
-![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## ░░ 03 — GITHUB METRICS
-
 <div align="center">
-
-![Fazil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FazilPRaphi&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=e3ec15&text_color=f9f9f9&icon_color=c7cf00)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FazilPRaphi&hide_border=true&background=0d1117&ring=e3ec15&fire=f4fd2f&currStreakLabel=e3ec15&sideLabels=c7cf00&dates=787960&currStreakNum=f9f9f9&sideNums=f9f9f9&stroke=1a1c1c)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FazilPRaphi&layout=compact&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=e3ec15&text_color=f9f9f9)
-
+  <sub>Full Stack Developer | AI Developer | Open Source Enthusiast | Kerala, India</sub>
 </div>
 
----
+<br />
 
-## ░░ 04 — SELECTED WORKS
+## Overview
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  01  SYNAPSE                                                         │
-│      Brain Tumor Detection & Classification                          │
-│      Stack → React · Vite · FastAPI · TensorFlow · Firebase         │
-│      Status → ■ LIVE                                                │
-├─────────────────────────────────────────────────────────────────────┤
-│  02  VAULTAIQ                                                        │
-│      AI-Powered Personal Expense Intelligence                        │
-│      Stack → Next.js · Supabase · PostgreSQL · OpenAI               │
-│      Status → ■ IN PROGRESS                                         │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>About Me</h3>
+      <p>
+        I'm Fazil Raphi, a developer focused on building modern web applications, AI-powered tools, and products that solve real-world problems.
+      </p>
+      <p>
+        My journey has been shaped by curiosity across full stack engineering, intelligent systems, clean product experiences, and the kind of software that feels useful from day one.
+      </p>
+      <p>
+        I enjoy turning ideas into practical products, refining developer experience, and exploring how AI can be woven into everyday workflows without making the product feel heavy.
+      </p>
+    </td>
+    <td width="38%" valign="top">
+      <h3>Quick Snapshot</h3>
+      <p><strong>Focus</strong><br />Modern apps, AI workflows, product engineering</p>
+      <p><strong>Works With</strong><br />React, Next.js, FastAPI, OpenAI, PostgreSQL</p>
+      <p><strong>Build Style</strong><br />Minimal, fast, useful, and production-minded</p>
+      <p><strong>Open To</strong><br />Collaboration, open source, thoughtful product work</p>
+    </td>
+  </tr>
+</table>
 
----
+## Building, Learning & Experimenting
 
-## ░░ 05 — CONNECT
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Building</h4>
+      <p>Working on new products that combine solid frontend UX with practical backend systems and AI-assisted flows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Learning</h4>
+      <p>Exploring AI applications, cloud technologies, and system design with a strong bias toward real implementation.</p>
+    </td>
+    <td width="34%" valign="top">
+      <h4>Experimenting</h4>
+      <p>Contributing to open source, testing product ideas, and improving the small details that make software feel sharp.</p>
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/project-synapse.svg" alt="Synapse project preview placeholder" width="100%" />
+      <h3>Synapse</h3>
+      <p><strong>Brain Tumor Detection Platform</strong></p>
+      <p>AI-powered brain tumor detection and classification platform with a modern user experience.</p>
+      <p>
+        <strong>Stack</strong><br />
+        React | FastAPI | TensorFlow | Firebase
+      </p>
+      <p>
+        <a href="https://synapse-frontend-amber.vercel.app/">Live Product</a> |
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/synapse">GitHub Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/project-vaultaiq.svg" alt="VaultaIQ project preview placeholder" width="100%" />
+      <h3>VaultaIQ</h3>
+      <p><strong>AI Expense Intelligence Platform</strong></p>
+      <p>AI-powered personal finance and expense intelligence platform built for clearer money decisions.</p>
+      <p>
+        <strong>Stack</strong><br />
+        Next.js | Supabase | PostgreSQL | OpenAI
+      </p>
+      <p>
+        <a href="https://vaultaiq-git-main-fazil-rafis-projects.vercel.app/login">Live Product</a> |
+        <a href="https://github.com/YOUR_GITHUB_USERNAME/vaultaiq">GitHub Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Communities & Memberships
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Firebase Studio Developer Community</h3>
+      <p>Member</p>
+      <p>Part of a community centered around product building, Firebase workflows, and developer collaboration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Google Developer Groups</h3>
+      <p>Member</p>
+      <p>Connected with a wider developer ecosystem through events, community knowledge-sharing, and applied learning.</p>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Frontend</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend stack" />
+      </p>
+      <h4>Backend</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" alt="Backend stack" />
+      </p>
+      <h4>Databases</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase" alt="Database stack" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI / ML</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=tensorflow,python" alt="AI and ML stack" />
+      </p>
+      <h4>Cloud & DevOps</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github" alt="Cloud and DevOps stack" />
+      </p>
+      <h4>Design</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design stack" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+## GitHub Analytics
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&icon_color=7CFFB2&text_color=CFE9DA" alt="GitHub stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&text_color=CFE9DA" alt="Top languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0B0F0E&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideNums=CFE9DA&currStreakNum=CFE9DA&dates=8FA89A&sideLabels=8FA89A" alt="GitHub streak stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake-dark.svg" alt="Contribution snake" width="100%" />
+    </td>
+  </tr>
+</table>
+
+## Beyond Code
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>Football: Bayern Munich supporter</p>
+      <p>Germany: Interested in engineering, innovation, and technology</p>
+    </td>
+    <td width="50%" valign="top">
+      <p>Music: My favorite coding companion</p>
+      <p>Mindset: Always exploring new technologies</p>
+    </td>
+  </tr>
+</table>
+
+## Developer Setup
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <img src="./assets/setup-card.svg" alt="Developer setup card" width="100%" />
+    </td>
+  </tr>
+</table>
+
+## Connect
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://updatedportfolio-ashen.vercel.app/">Portfolio</a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://www.linkedin.com/in/fazil-p-raphi">LinkedIn</a>
+    </td>
+    <td width="25%" align="center">
+      <a href="mailto:fazilraphi14@gmail.com">Email</a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://music.youtube.com/playlist?list=PLa7_zFXgzqG4EUKhNCWNIOwJfT_JwTiq2&si=mOlO3hJ7P0H4n1Go">Coding Playlist</a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fazil-p-raphi)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_faz_i_z_w)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazilraphi14@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://fazil.dev)
-
-</div>
-
----
-
-<div align="center">
-
-
-```
-© 2026 FAZIL P RAPHI
-BUILT WITH SURGICAL PRECISION. ALL RIGHTS RESERVED.
-```
-
+  <sub>Replace the placeholder GitHub, LeetCode, and project repository links with your live profile handles for a production-ready finish.</sub>
 </div>
