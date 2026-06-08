@@ -1,0 +1,23 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="28" fill="#070B09"/>
+  <rect x="36" y="36" width="1128" height="648" rx="24" fill="#0A110D" stroke="#1A2A20"/>
+  <rect x="72" y="76" width="220" height="34" rx="17" fill="#0E1713" stroke="#284433"/>
+  <text x="102" y="99" fill="#7CFFB2" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">PROJECT PREVIEW</text>
+  <text x="72" y="176" fill="#F2FFF7" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Synapse</text>
+  <text x="72" y="224" fill="#A6C2B2" font-family="Segoe UI, Arial, sans-serif" font-size="28">Brain Tumor Detection Platform</text>
+  <rect x="72" y="278" width="1056" height="330" rx="22" fill="url(#paint0_linear)" stroke="#214032"/>
+  <circle cx="306" cy="443" r="112" fill="#09120D" stroke="#2E5A44"/>
+  <circle cx="306" cy="443" r="76" fill="#7CFFB2" fill-opacity="0.22" stroke="#7CFFB2"/>
+  <path d="M552 380H1000" stroke="#2F4F3E" stroke-width="20" stroke-linecap="round"/>
+  <path d="M552 452H930" stroke="#223A2D" stroke-width="20" stroke-linecap="round"/>
+  <path d="M552 524H862" stroke="#223A2D" stroke-width="20" stroke-linecap="round"/>
+  <rect x="72" y="628" width="240" height="24" rx="12" fill="#153424"/>
+  <rect x="328" y="628" width="206" height="24" rx="12" fill="#11281D"/>
+  <rect x="550" y="628" width="182" height="24" rx="12" fill="#11281D"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="72" y1="278" x2="1128" y2="608" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1410"/>
+      <stop offset="1" stop-color="#0D1B15"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,57 @@
+<svg width="1600" height="540" viewBox="0 0 1600 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="540" rx="28" fill="#050807"/>
+  <rect width="1600" height="540" rx="28" fill="url(#paint0_linear)"/>
+  <g opacity="0.24">
+    <circle cx="1320" cy="110" r="220" fill="url(#paint1_radial)"/>
+    <circle cx="290" cy="430" r="240" fill="url(#paint2_radial)"/>
+  </g>
+  <g opacity="0.14" stroke="#7CFFB2">
+    <path d="M82 100H1518"/>
+    <path d="M82 160H1518"/>
+    <path d="M82 220H1518"/>
+    <path d="M82 280H1518"/>
+    <path d="M82 340H1518"/>
+    <path d="M82 400H1518"/>
+    <path d="M82 460H1518"/>
+    <path d="M160 40V500"/>
+    <path d="M340 40V500"/>
+    <path d="M520 40V500"/>
+    <path d="M700 40V500"/>
+    <path d="M880 40V500"/>
+    <path d="M1060 40V500"/>
+    <path d="M1240 40V500"/>
+    <path d="M1420 40V500"/>
+  </g>
+  <rect x="72" y="60" width="1456" height="420" rx="24" fill="#09100D" fill-opacity="0.72" stroke="#1B2A22"/>
+  <rect x="120" y="116" width="260" height="42" rx="21" fill="#0E1713" stroke="#244333"/>
+  <text x="152" y="143" fill="#7CFFB2" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">MODERN DEVELOPER PORTFOLIO</text>
+  <text x="120" y="240" fill="#F3FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Fazil Raphi</text>
+  <text x="120" y="294" fill="#8FB1A0" font-family="Segoe UI, Arial, sans-serif" font-size="28">Full Stack Developer  |  AI Developer  |  Open Source Enthusiast</text>
+  <text x="120" y="350" fill="#CFE9DA" font-family="Segoe UI, Arial, sans-serif" font-size="24">Building modern web applications, AI-powered solutions, and products</text>
+  <text x="120" y="386" fill="#CFE9DA" font-family="Segoe UI, Arial, sans-serif" font-size="24">that solve real-world problems.</text>
+  <rect x="120" y="424" width="178" height="52" rx="14" fill="#7CFFB2"/>
+  <rect x="314" y="424" width="188" height="52" rx="14" fill="#0D1511" stroke="#2C4E3C"/>
+  <text x="164" y="456" fill="#061109" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Portfolio</text>
+  <text x="372" y="456" fill="#DDF5E7" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Connect</text>
+  <rect x="1170" y="132" width="260" height="120" rx="22" fill="#0A1310" stroke="#1F382C"/>
+  <rect x="1170" y="270" width="260" height="120" rx="22" fill="#0A1310" stroke="#1F382C"/>
+  <text x="1204" y="178" fill="#7CFFB2" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Location</text>
+  <text x="1204" y="215" fill="#F3FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Kerala, India</text>
+  <text x="1204" y="316" fill="#7CFFB2" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Build Focus</text>
+  <text x="1204" y="353" fill="#F3FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">AI + Full Stack</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="180" y1="70" x2="1448" y2="490" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050807"/>
+      <stop offset="0.5" stop-color="#08120E"/>
+      <stop offset="1" stop-color="#04100A"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 110) rotate(90) scale(220)">
+      <stop stop-color="#7CFFB2"/>
+      <stop offset="1" stop-color="#7CFFB2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 430) rotate(90) scale(240)">
+      <stop stop-color="#25D97F"/>
+      <stop offset="1" stop-color="#25D97F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

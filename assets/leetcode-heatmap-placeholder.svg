@@ -1,0 +1,37 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="24" fill="#07100B"/>
+  <rect x="28" y="28" width="1144" height="364" rx="20" fill="#0A1310" stroke="#1B2D22"/>
+  <text x="52" y="78" fill="#F3FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">LeetCode Heatmap Placeholder</text>
+  <text x="52" y="112" fill="#9AB5A7" font-family="Segoe UI, Arial, sans-serif" font-size="18">Replace this card with your live LeetCode heatmap, stats image, or activity graph.</text>
+  <g transform="translate(52 154)">
+    <rect x="0" y="0" width="26" height="26" rx="6" fill="#112118"/>
+    <rect x="36" y="0" width="26" height="26" rx="6" fill="#183223"/>
+    <rect x="72" y="0" width="26" height="26" rx="6" fill="#214A32"/>
+    <rect x="108" y="0" width="26" height="26" rx="6" fill="#2F6945"/>
+    <rect x="144" y="0" width="26" height="26" rx="6" fill="#7CFFB2"/>
+    <rect x="0" y="36" width="26" height="26" rx="6" fill="#183223"/>
+    <rect x="36" y="36" width="26" height="26" rx="6" fill="#214A32"/>
+    <rect x="72" y="36" width="26" height="26" rx="6" fill="#2F6945"/>
+    <rect x="108" y="36" width="26" height="26" rx="6" fill="#7CFFB2"/>
+    <rect x="144" y="36" width="26" height="26" rx="6" fill="#112118"/>
+    <rect x="0" y="72" width="26" height="26" rx="6" fill="#214A32"/>
+    <rect x="36" y="72" width="26" height="26" rx="6" fill="#2F6945"/>
+    <rect x="72" y="72" width="26" height="26" rx="6" fill="#7CFFB2"/>
+    <rect x="108" y="72" width="26" height="26" rx="6" fill="#112118"/>
+    <rect x="144" y="72" width="26" height="26" rx="6" fill="#183223"/>
+    <rect x="0" y="108" width="26" height="26" rx="6" fill="#2F6945"/>
+    <rect x="36" y="108" width="26" height="26" rx="6" fill="#7CFFB2"/>
+    <rect x="72" y="108" width="26" height="26" rx="6" fill="#112118"/>
+    <rect x="108" y="108" width="26" height="26" rx="6" fill="#183223"/>
+    <rect x="144" y="108" width="26" height="26" rx="6" fill="#214A32"/>
+    <rect x="0" y="144" width="26" height="26" rx="6" fill="#7CFFB2"/>
+    <rect x="36" y="144" width="26" height="26" rx="6" fill="#112118"/>
+    <rect x="72" y="144" width="26" height="26" rx="6" fill="#183223"/>
+    <rect x="108" y="144" width="26" height="26" rx="6" fill="#214A32"/>
+    <rect x="144" y="144" width="26" height="26" rx="6" fill="#2F6945"/>
+  </g>
+  <rect x="306" y="166" width="818" height="22" rx="11" fill="#163121"/>
+  <rect x="306" y="214" width="726" height="22" rx="11" fill="#11271B"/>
+  <rect x="306" y="262" width="658" height="22" rx="11" fill="#11271B"/>
+  <rect x="306" y="310" width="782" height="22" rx="11" fill="#163121"/>
+</svg>
