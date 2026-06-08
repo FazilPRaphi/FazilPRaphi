@@ -85,7 +85,7 @@
       </p>
       <p>
         <a href="https://synapse-frontend-amber.vercel.app/">Live Product</a> |
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/synapse">GitHub Repo</a>
+        <a href="https://github.com/FazilPRaphi/synapse">GitHub Repo</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +99,7 @@
       </p>
       <p>
         <a href="https://vaultaiq-git-main-fazil-rafis-projects.vercel.app/login">Live Product</a> |
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/vaultaiq">GitHub Repo</a>
+        <a href="https://github.com/FazilPRaphi/vaultaiq">GitHub Repo</a>
       </p>
     </td>
   </tr>
@@ -176,23 +176,23 @@
 
 ## GitHub Analytics
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+<!-- GitHub analytics wired for FazilPRaphi -->
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&icon_color=7CFFB2&text_color=CFE9DA" alt="GitHub stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=FazilPRaphi&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&icon_color=7CFFB2&text_color=CFE9DA" alt="GitHub stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&text_color=CFE9DA" alt="Top languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazilPRaphi&layout=compact&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&text_color=CFE9DA" alt="Top languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0B0F0E&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideNums=CFE9DA&currStreakNum=CFE9DA&dates=8FA89A&sideLabels=8FA89A" alt="GitHub streak stats" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=FazilPRaphi&theme=dark&hide_border=true&background=0B0F0E&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideNums=CFE9DA&currStreakNum=CFE9DA&dates=8FA89A&sideLabels=8FA89A" alt="GitHub streak stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake-dark.svg" alt="Contribution snake" width="100%" />
+      <img src="./assets/analytics-snake-placeholder.svg" alt="Contribution snake placeholder" width="100%" />
     </td>
   </tr>
 </table>

@@ -1,0 +1,14 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="24" fill="#07100B"/>
+  <rect x="28" y="28" width="1144" height="364" rx="20" fill="#0A1310" stroke="#1B2D22"/>
+  <text x="52" y="82" fill="#F3FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Contribution Snake</text>
+  <text x="52" y="118" fill="#9AB5A7" font-family="Segoe UI, Arial, sans-serif" font-size="18">This placeholder keeps the analytics grid stable until the snake workflow is added.</text>
+  <path d="M76 252C132 192 188 192 244 252C300 312 356 312 412 252C468 192 524 192 580 252C636 312 692 312 748 252C804 192 860 192 916 252C972 312 1028 312 1084 252" stroke="#7CFFB2" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="1084" cy="252" r="18" fill="#7CFFB2"/>
+  <circle cx="1078" cy="246" r="3" fill="#061109"/>
+  <circle cx="1090" cy="246" r="3" fill="#061109"/>
+  <rect x="76" y="318" width="250" height="18" rx="9" fill="#163121"/>
+  <rect x="342" y="318" width="198" height="18" rx="9" fill="#11271B"/>
+  <rect x="556" y="318" width="224" height="18" rx="9" fill="#163121"/>
+  <rect x="796" y="318" width="176" height="18" rx="9" fill="#11271B"/>
+</svg>
