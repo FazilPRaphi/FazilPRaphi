@@ -172,6 +172,78 @@
       <img src="./assets/leetcode-heatmap-placeholder.svg" alt="LeetCode heatmap placeholder" width="100%" />
     </td>
   </tr>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Communities & Memberships
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Firebase Studio Developer Community</h3>
+      <p>Member</p>
+      <p>Part of a community centered around product building, Firebase workflows, and developer collaboration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Google Developer Groups</h3>
+      <p>Member</p>
+      <p>Connected with a wider developer ecosystem through events, community knowledge-sharing, and applied learning.</p>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Frontend</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend stack" />
+      </p>
+      <h4>Backend</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" alt="Backend stack" />
+      </p>
+      <h4>Databases</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase" alt="Database stack" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI / ML</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=tensorflow,python" alt="AI and ML stack" />
+      </p>
+      <h4>Cloud & DevOps</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github" alt="Cloud and DevOps stack" />
+      </p>
+      <h4>Design</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design stack" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Coding Profiles
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <h3>LeetCode</h3>
+      <p>Dedicated problem-solving space with room for a contribution heatmap card or stats widget.</p>
+      <p>
+        <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">View Profile</a>
+      </p>
+    </td>
+    <td width="60%" valign="top">
+      <img src="./assets/leetcode-heatmap-placeholder.svg" alt="LeetCode heatmap placeholder" width="100%" />
+    </td>
+  </tr>
 </table>
 
 ## GitHub Analytics
@@ -181,18 +253,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=FazilPRaphi&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&icon_color=7CFFB2&text_color=CFE9DA" alt="GitHub stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FazilPRaphi&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&icon_color=7CFFB2&text_color=CFE9DA" alt="GitHub stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazilPRaphi&layout=compact&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&text_color=CFE9DA" alt="Top languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FazilPRaphi&layout=compact&theme=dark&hide_border=true&bg_color=0B0F0E&title_color=7CFFB2&text_color=CFE9DA" alt="Top languages" width="100%" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=FazilPRaphi&theme=dark&hide_border=true&background=0B0F0E&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideNums=CFE9DA&currStreakNum=CFE9DA&dates=8FA89A&sideLabels=8FA89A" alt="GitHub streak stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="./assets/analytics-snake-placeholder.svg" alt="Contribution snake placeholder" width="100%" />
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=FazilPRaphi&theme=dark&hide_border=true&background=0B0F0E&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideNums=CFE9DA&currStreakNum=CFE9DA&dates=8FA89A&sideLabels=8FA89A" alt="GitHub streak stats" width="50%" />
     </td>
   </tr>
 </table>
@@ -224,23 +293,21 @@
 
 ## Connect
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <a href="https://updatedportfolio-ashen.vercel.app/">Portfolio</a>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://www.linkedin.com/in/fazil-p-raphi">LinkedIn</a>
-    </td>
-    <td width="25%" align="center">
-      <a href="mailto:fazilraphi14@gmail.com">Email</a>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://music.youtube.com/playlist?list=PLa7_zFXgzqG4EUKhNCWNIOwJfT_JwTiq2&si=mOlO3hJ7P0H4n1Go">Coding Playlist</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://updatedportfolio-ashen.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0B0F0E?style=for-the-badge&logo=vercel&logoColor=7CFFB2&labelColor=0B0F0E" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/fazil-p-raphi">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0F0E?style=for-the-badge&logo=linkedin&logoColor=7CFFB2&labelColor=0B0F0E" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fazilraphi14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B0F0E?style=for-the-badge&logo=gmail&logoColor=7CFFB2&labelColor=0B0F0E" alt="Email" />
+  </a>
+  <a href="https://music.youtube.com/playlist?list=PLa7_zFXgzqG4EUKhNCWNIOwJfT_JwTiq2&si=mOlO3hJ7P0H4n1Go">
+    <img src="https://img.shields.io/badge/Coding_Playlist-0B0F0E?style=for-the-badge&logo=youtubemusic&logoColor=7CFFB2&labelColor=0B0F0E" alt="Coding Playlist" />
+  </a>
+</div>
 
 <div align="center">
-  <sub>Replace the placeholder GitHub, LeetCode, and project repository links with your live profile handles for a production-ready finish.</sub>
+ 
 </div>
