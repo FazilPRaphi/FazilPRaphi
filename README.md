@@ -229,22 +229,7 @@
   </tr>
 </table>
 
-## Coding Profiles
 
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <h3>LeetCode</h3>
-      <p>Dedicated problem-solving space with room for a contribution heatmap card or stats widget.</p>
-      <p>
-        <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">View Profile</a>
-      </p>
-    </td>
-    <td width="60%" valign="top">
-      <img src="./assets/leetcode-heatmap-placeholder.svg" alt="LeetCode heatmap placeholder" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ## GitHub Analytics
 
