@@ -122,40 +122,7 @@
   </tr>
 </table>
 
-## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Frontend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend stack" />
-      </p>
-      <h4>Backend</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" alt="Backend stack" />
-      </p>
-      <h4>Databases</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase" alt="Database stack" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>AI / ML</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=tensorflow,python" alt="AI and ML stack" />
-      </p>
-      <h4>Cloud & DevOps</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github" alt="Cloud and DevOps stack" />
-      </p>
-      <h4>Design</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design stack" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## Coding Profiles
 
