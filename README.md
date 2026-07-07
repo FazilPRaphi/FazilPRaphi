@@ -233,15 +233,7 @@
   </tr>
 </table>
 
-## Developer Setup
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <img src="./assets/setup-card.svg" alt="Developer setup card" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ## Connect
 
