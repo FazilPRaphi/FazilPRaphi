@@ -44,7 +44,7 @@
     <td width="38%" valign="top">
       <h3>Quick Snapshot</h3>
       <p><strong>Focus</strong><br />Modern apps, AI workflows, product engineering</p>
-      <p><strong>Works With</strong><br />React, Next.js, FastAPI, OpenAI, PostgreSQL</p>
+      <p><strong>Works With</strong><br />React, Next.js, FastAPI, ML</p>
       <p><strong>Build Style</strong><br />Minimal, fast, useful, and production-minded</p>
       <p><strong>Open To</strong><br />Collaboration, open source, thoughtful product work</p>
     </td>
