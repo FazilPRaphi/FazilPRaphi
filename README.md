@@ -105,23 +105,6 @@
   </tr>
 </table>
 
-## Communities & Memberships
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Firebase Studio Developer Community</h3>
-      <p>Member</p>
-      <p>Part of a community centered around product building, Firebase workflows, and developer collaboration.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Google Developer Groups</h3>
-      <p>Member</p>
-      <p>Connected with a wider developer ecosystem through events, community knowledge-sharing, and applied learning.</p>
-    </td>
-  </tr>
-</table>
-
 
 
 
