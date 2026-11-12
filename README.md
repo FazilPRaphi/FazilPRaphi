@@ -1,7 +1,7 @@
 # <div align="center">Fazil Raphi</div>
 
 <div align="center">
-  ##<img src="./assets/banner.svg" alt="Fazil Raphi premium GitHub profile banner" width="100%" />
+  
 </div>
 
 <div align="center">
